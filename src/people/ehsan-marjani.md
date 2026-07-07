@@ -3,9 +3,9 @@ name: Seyed Ehsan Marjani Bajestani
 role: postdoc
 title: Postdoctoral Fellow
 photo: ehsan-marjani.jpg
-short_bio: A soccer player who built soccer-playing robots — now researching multi-agent perception with event-based vision.
+short_bio: Robotics systems engineer developing intelligent perception, multi-agent robotic systems, and custom PCB and embedded systems for autonomous platforms.
 supervisor: Giovanni Beltrame
-tags: [Robotic Perception
+tags: [Robotic Perception,
     Event-Based Vision,
     Swarm Robotics,
     Cooperative Localization,
@@ -14,6 +14,7 @@ email: ehsan.marjani@polymtl.ca
 scholar: 4OsTRVIAAAAJ
 orcid: 0000-0003-3139-6063
 linkedin: https://www.linkedin.com/in/seyed-ehsan-marjani-bajestani/
+website: https://emarjani.github.io/
 order: 2
 ---
 
@@ -44,7 +45,7 @@ behaviors through decentralized control, perception, and interaction.
 
 ## Previous Projects at MIST Lab
 
-### Event-Based 3D Perception
+### [Event-Based 3D Perception](https://emarjani.github.io/projects/event-rgbd.html)
 During his Ph.D. at Polytechnique Montréal, Ehsan developed novel high-speed 3D
 sensing methods using event cameras and structured light. His system used a DLP
 projector to rapidly project coded color patterns, while a monochrome event-based
@@ -102,4 +103,5 @@ teams of robots to operate effectively in real-world applications ranging from
 exploration and environmental monitoring to creative and interactive experiences.
 
 ## Contact
-Reach Ehsan at [ehsan.marjani@polymtl.ca](mailto:ehsan.marjani@polymtl.ca) or on [LinkedIn](https://www.linkedin.com/in/seyed-ehsan-marjani-bajestani).
+
+Reach Ehsan at [ehsan.marjani@polymtl.ca](mailto:ehsan.marjani@polymtl.ca), connect on [LinkedIn](https://www.linkedin.com/in/seyed-ehsan-marjani-bajestani), or visit his [engineering portfolio](https://emarjani.github.io/).
