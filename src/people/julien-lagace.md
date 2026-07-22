@@ -9,7 +9,7 @@ tags: [Navigation & Localization, Autonomous Robotics, Robotic Perception]
 order: 2
 email: julien.lagace@polymtl.ca
 github: Julien-Lagace
-linkedin: www.linkedin.com/in/julien-lagace-a570801a1
+linkedin: https://www.linkedin.com/in/julien-lagace/
 ---
 
 Julien Lagacé started his Master's in computer engineering at Polytechnique Montréal in September 2025, supervised by Pierre-Yves Lajoie. He received his Bachelor's degree in mechanical engineering at the University of Calgary in June 2024. He is interested in navigation & localization, autonomous robotics, and robotic perception.
@@ -25,4 +25,4 @@ Julien’s research focuses on developing scalable, high-precision vehicle local
 
 ## Contact
 
-Reach this person at [email](mailto:julien.lagace@polymtl.ca).
+Reach this person at [julien.lagace@polymtl.ca](mailto:julien.lagace@polymtl.ca).
