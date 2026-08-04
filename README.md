@@ -118,7 +118,7 @@ Add a file named `CNAME` at the repo root containing `mistlab.ca`, set
 ## Project layout
 
 ```
-_data/            YAML/JSON content (site, people groups, news, acronym, …)
+_data/            YAML/JSON content (site, people groups, news, acronym, …) 
 src/              Pages (.njk) and per-person Markdown in src/people/
 _includes/        Shared layouts and partials (nav, footer, person page)
 assets/           CSS, JS, images (people/, missions/)
