@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:14:03.438Z",
+  "generated_at": "2026-08-10T03:35:51.840Z",
   "total": 89,
   "publications": [
     {
@@ -119,7 +119,7 @@
       "year": "2024",
       "venue": "",
       "doi": "https://doi.org/10.1007/978-3-031-70932-6_4",
-      "authors": "A. Moroncelli, A. Pacheco, V. Strobel, P.-Y. Lajoie, M. Dorigo, A. Reina",
+      "authors": "Pierre-Yves Lajoie et al.",
       "source_orcid": "0000-0002-7495-8567"
     },
     {
@@ -127,7 +127,7 @@
       "year": "2024",
       "venue": "ACM / IMS Journal of Data Science",
       "doi": "https://doi.org/10.1145/3592762",
-      "authors": "A. Opipari, J. Pavlasek, C. Chen, S. Wang, K. Desingh, O. C. Jenkins",
+      "authors": "Jana Pavlasek et al.",
       "source_orcid": "0000-0001-6332-2646"
     },
     {
@@ -135,7 +135,7 @@
       "year": "2024",
       "venue": "ICC 2024 - IEEE International Conference on Communications",
       "doi": "https://doi.org/10.1109/icc51166.2024.10622566",
-      "authors": "P. Lajoie, B. H. Baghi, S. Herath, F. Hogan, X. Liu, G. Dudek",
+      "authors": "Pierre-Yves Lajoie et al.",
       "source_orcid": "0000-0002-7495-8567"
     },
     {
@@ -143,7 +143,7 @@
       "year": "2024",
       "venue": "IEEE Robotics and Automation Letters",
       "doi": "https://doi.org/10.1109/LRA.2024.3375708",
-      "authors": "J. Pavlasek, J. J. Z. Mah, R. Xu, O. C. Jenkins, F. Ramos",
+      "authors": "Jana Pavlasek et al.",
       "source_orcid": "0000-0001-6332-2646"
     },
     {
@@ -183,7 +183,7 @@
       "year": "2023",
       "venue": "IEEE Robotics and Automation Letters",
       "doi": "https://doi.org/10.1109/LRA.2022.3232033",
-      "authors": "Giovanni Beltrame et al.",
+      "authors": "P.-Y. Lajoie, G. Beltrame",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -271,7 +271,7 @@
       "year": "2020",
       "venue": "Autonomous Robots",
       "doi": "https://doi.org/10.1007/s10514-019-09855-2",
-      "authors": "V. S. Varadharajan, D. St-Onge, B. Adams, G. Beltrame",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -295,7 +295,7 @@
       "year": "2019",
       "venue": "Swarm Intelligence",
       "doi": "https://doi.org/10.1007/s11721-019-00162-1",
-      "authors": "G. Li, I. Svogor, G. Beltrame",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -319,7 +319,7 @@
       "year": "2018",
       "venue": "IEEE Access",
       "doi": "https://doi.org/10.1109/ACCESS.2018.2866259",
-      "authors": "Y. Cao, M. Li, I. Svogor, S. Wei, G. Beltrame",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -327,7 +327,7 @@
       "year": "2016",
       "venue": "IEEE Transactions on Components, Packaging and Manufacturing Technology",
       "doi": "https://doi.org/10.1109/TCPMT.2016.2599100",
-      "authors": "A. Fourmigue, G. Beltrame, G. Nicolescu",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
