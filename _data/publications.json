@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:20:09.872Z",
+  "generated_at": "2026-08-24T03:22:26.790Z",
   "total": 89,
   "publications": [
     {
@@ -11,7 +11,7 @@
       "source_orcid": "0000-0001-9755-8630"
     },
     {
-      "title": "Influence of Autonomy and Interfaces on Human and Multi-Robot Teams: a Study on Planetary Exploration",
+      "title": "Influence of Autonomy and Interfaces on Human and Multi-Robot Teams: A Study on Planetary Exploration",
       "year": "2026",
       "venue": "ACM Transactions on Human-Robot Interaction",
       "doi": "https://doi.org/10.1145/3822499",
@@ -255,7 +255,7 @@
       "year": "2020",
       "venue": "IEEE Robotics and Automation Letters",
       "doi": "https://doi.org/10.1109/LRA.2020.2967681",
-      "authors": "P.-Y. Lajoie, B. Ramtoula, Y. Chang, L. Carlone, G. Beltrame",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -271,7 +271,7 @@
       "year": "2020",
       "venue": "Autonomous Robots",
       "doi": "https://doi.org/10.1007/s10514-019-09855-2",
-      "authors": "Giovanni Beltrame et al.",
+      "authors": "V. S. Varadharajan, D. St-Onge, B. Adams, G. Beltrame",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -287,7 +287,7 @@
       "year": "2019",
       "venue": "Autonomous Robots",
       "doi": "https://doi.org/10.1007/s10514-018-9807-5",
-      "authors": "Giovanni Beltrame et al.",
+      "authors": "G. Li, D. St-Onge, C. Pinciroli, A. Gasparri, E. Garone, G. Beltrame",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -303,7 +303,7 @@
       "year": "2019",
       "venue": "IEEE Robotics and Automation Letters",
       "doi": "https://doi.org/10.1109/LRA.2019.2894852",
-      "authors": "P.-Y. Lajoie, S. Hu, G. Beltrame, L. Carlone",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
