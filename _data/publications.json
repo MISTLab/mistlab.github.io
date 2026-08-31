@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-24T03:22:26.790Z",
-  "total": 89,
+  "generated_at": "2026-08-31T03:12:21.407Z",
+  "total": 90,
   "publications": [
+    {
+      "title": "E-RGB-D: Real-Time Event-Based Perception with Structured Light",
+      "year": "2026",
+      "venue": "International Journal of Computer Vision",
+      "doi": "https://doi.org/10.1007/s11263-026-03001-z",
+      "authors": "S. E. Marjani Bajestani, G. Beltrame",
+      "source_orcid": "0000-0001-9755-8630"
+    },
     {
       "title": "EA-IPP2n: Energy-Aware Informative Path Planning Algorithm for UAVs",
       "year": "2026",
@@ -239,7 +247,7 @@
       "year": "2020",
       "venue": "IEEE Robotics and Automation Letters",
       "doi": "https://doi.org/10.1109/LRA.2020.2967331",
-      "authors": "H. Zheng, J. Panerati, G. Beltrame, A. Prorok",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -255,7 +263,7 @@
       "year": "2020",
       "venue": "IEEE Robotics and Automation Letters",
       "doi": "https://doi.org/10.1109/LRA.2020.2967681",
-      "authors": "Giovanni Beltrame et al.",
+      "authors": "P.-Y. Lajoie, B. Ramtoula, Y. Chang, L. Carlone, G. Beltrame",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
@@ -287,7 +295,7 @@
       "year": "2019",
       "venue": "Autonomous Robots",
       "doi": "https://doi.org/10.1007/s10514-018-9807-5",
-      "authors": "G. Li, D. St-Onge, C. Pinciroli, A. Gasparri, E. Garone, G. Beltrame",
+      "authors": "Giovanni Beltrame et al.",
       "source_orcid": "0000-0001-9755-8630"
     },
     {
