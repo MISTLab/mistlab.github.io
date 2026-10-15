@@ -15,7 +15,7 @@ order: 3
 ---
 
 Pierre-Yves Lajoie is an Assistant Professor in the Department of Computer and
-Software Engineering at Polytechnique Montréal. He is a robotics and artificial
+Software Engineering at Polytechnique Montréal and an Associate Academic Member of Mila. He is a robotics and artificial
 intelligence researcher specializing in robotic perception for single- and
 multi-agent systems. Before joining Polytechnique, he held research positions at
 MIT (2019), the Samsung AI Center (2023), and the University of Oxford (2024).
